@@ -23,5 +23,10 @@
   "dependencies": {
     "@n8n/di": "workspace:*",
     "reflect-metadata": "catalog:"
+  },
+  "engines": {
+  "node": ">=18.0.0 <20.0.0",
+  "pnpm": ">=10.2.1"
   }
 }
+
